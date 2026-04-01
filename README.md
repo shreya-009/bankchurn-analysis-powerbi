@@ -49,10 +49,10 @@ Understand root causes of customer churn
 ---
 ## 📸 Dashboard Preview
 🔹**Executive Summary**
-   ![Executive Summary]()
+   ![Executive Summary](https://github.com/shreya-009/bankchurn-analysis-powerbi/blob/main/Screenshots/Executive%20Summary.png)
    
 🔹**Customer Insights**
-   ![Customer Segmentation]()
+   ![Customer Segmentation](https://github.com/shreya-009/bankchurn-analysis-powerbi/blob/main/Screenshots/Customer%20Segmentation.png)
    
 🔹**Churn Drivers Analysis**
-   ![Deep Dive]()
+   ![Deep Dive](https://github.com/shreya-009/bankchurn-analysis-powerbi/blob/main/Screenshots/Churn%20Driver%20Analysis.png)

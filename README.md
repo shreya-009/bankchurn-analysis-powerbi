@@ -43,7 +43,7 @@ The dataset contains customer-level information including:
 - Churn by credit card ownership  
 - Monthly churn trends (Active vs Inactive customers)  
 
-### 🔹 Deep Dive (Root Cause Analysis)
+### 🔹 Churn Drivers Analysis (Root Cause Analysis)
 - High-risk segment analysis (older inactive customers)  
 - Product usage vs churn behavior  
 - Balance-based churn segmentation  

@@ -99,7 +99,7 @@ The dataset contains customer-level information including:
 ![Executive Summary](Screenshots/Executive_Summary.png)
 
 ### 🔹 Customer Segmentation
-![Customer Insights](Screenshots/customer_Segmentation.png)
+![Customer Insights](Screenshots/Customer_Segmentation.png)
 
 ### 🔹 Churn Driver Analysis
 ![Deep Dive Analysis](Screenshots/Churn_Driver_Analysis.png)
